@@ -1,4 +1,4 @@
-![Profile Picture](profile.jpg)
+![Profile Picture](/gambar/image.jpg)
 # My E-Portfolio
 **Headline:** Aspiring Software Developer with a Passion for Problem-Solving
 
