@@ -41,10 +41,10 @@
 ## Assignments
 
 ### Assignment 1: Report
-- [Report](assignments/assignment1_report.pdf)
+- [Report]([assignments/assignment1_report.pdf](https://drive.google.com/file/d/12P7RNvkvrsKR1KQKt0yxHGhtwm_aG8_y/view?pli=1))
 
 ### Assignment 2: Website
-- [Website](https://myportfolio.github.io/website)
+- [Website]([https://myportfolio.github.io/website](https://derfcode91.github.io/#about))
 
 ### Assignment 3: GitHub E-portfolio
 - This repository contains the e-portfolio you are currently viewing.
