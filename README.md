@@ -63,7 +63,7 @@
 
 ### 🎓 Education
 - **Mechanical Engineering** - Secondary Scholl (2019-2020)
-- **Foundation in Engineering** - University Technology Mara (2021)
+- **Foundation in Engineering** - University Technology MARA (2021)
 - **Bachelor of Computer Network Security** - University Tecnology Malaysia (2022-Now)
 
 ### 💼 Position
@@ -78,8 +78,16 @@
 - **AWS Certified Solutions Architect** - Amazon Web Services
 
 ### 🏆 Honors and Awards
+### 🏆 Honors and Awards
 - **Dean's List** - University Technology Malaysia (2022, 2023)
-- **RenTas ** - ABC Hackathon (2023)
+- **MAKA Award** - University Technology MARA (2021)
+- - **Anugerah Kokurikulum & Sukan Half Colour** - Sport (2020)
+- **Anugerah Kokurikulum & Sukan Atlet Cemerlang (Negeri)** - Sport (2020)
+- **Anugerah Kokurikulum & Sukan Tokoh Kecemerlangan** - Sport (2019)
+- **Anugerah Khas Kokurikulum Terbaik PAJSK** - Sport (2019)
+- **Anugerah Full Colours (Sukan Memanah)** - Sport (2019)
+
+
 
 
 ## Assignments
