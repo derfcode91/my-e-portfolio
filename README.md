@@ -1,4 +1,5 @@
-![Profile Picture](/gambar/image.jpg)
+<img src="/gambar/image.jpg" alt="Profile Picture" width="200" height="200"/>
+
 # My E-Portfolio
 **Headline:** Aspiring Software Developer with a Passion for Problem-Solving
 
