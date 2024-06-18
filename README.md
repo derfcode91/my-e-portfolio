@@ -23,7 +23,7 @@
           <img src="https://img.shields.io/badge/Institution-0078D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Institution"/>
         </a>
       </p>
-      <p>I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), where I'm diving into the world of Network Security /p>
+      <p>I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), where I'm diving into the world of Network Security </p>
     </td>
   </tr>
 </table>
