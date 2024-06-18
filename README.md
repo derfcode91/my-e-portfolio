@@ -1,5 +1,34 @@
 <img src="/gambar/image.jpg" alt="Profile Picture" width="200" height="200"/>
 
+
+# Hello, I'm Lizawati 👋
+
+I'm a passionate Computer Science Lecturer with expertise in programming, data structures, and algorithms. I enjoy teaching and mentoring students to excel in programming and problem-solving.
+
+## Teaching Philosophy ✨
+
+I believe in creating a stimulating and creative learning atmosphere. Hands-on tutorials/exercises, real-world examples, and collaborative coding sessions are all part of my teaching style. I want to equip students with the abilities they'll need in both academia and industry.
+
+## Skills 🛠️
+
+- **Programming Languages**: C, C++, Java, Matlab, Python, Fortran, R
+- **Data Structures and Algorithms**
+- **Object-Oriented Programming**
+- **Web Development**: HTML, CSS, JavaScript, PHP, SQL, ASP.Net
+
+## Classes I Teach 📚
+
+- [Programming Technique II](#)
+- [Data Structures and Algorithms](#)
+- [Object-Oriented Programming](#)
+
+Looking forward to sharing knowledge and collaborating with fellow educators and students! Feel free to explore my repositories and get in touch.
+
+## GitHub Stats 📊
+
+![Lizawati Mi Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derfcode91&show_icons=true&theme=radical)
+
+
 # My E-Portfolio
 **Headline:** Aspiring Software Developer with a Passion for Problem-Solving
 
