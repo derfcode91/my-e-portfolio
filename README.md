@@ -71,19 +71,15 @@
 
 
 
-## Recommended
-
-### 📚 Courses
-- **Web Development Bootcamp** - Udemy
-- **Data Structures and Algorithms** - Coursera
+## Wall of Award
 
 ### 📜 Certificates
 - **Certified Java Programmer** - Oracle
 - **AWS Certified Solutions Architect** - Amazon Web Services
 
 ### 🏆 Honors and Awards
-- **Dean's List** - XYZ University (2021, 2022)
-- **Hackathon Winner** - ABC Hackathon (2023)
+- **Dean's List** - University Technology Malaysia (2022, 2023)
+- **RenTas ** - ABC Hackathon (2023)
 
 
 ## Assignments
