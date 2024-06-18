@@ -65,11 +65,7 @@
 ### 💼 Position
 - **Intern Software Developer** - ABC Company (June 2023 - August 2023)
 
-### 🛠 Skills
-- **Programming Languages:** Python, Java, JavaScript, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code
+
 
 ## Recommended
 
@@ -81,15 +77,10 @@
 - **Certified Java Programmer** - Oracle
 - **AWS Certified Solutions Architect** - Amazon Web Services
 
-## Additional
-
 ### 🏆 Honors and Awards
 - **Dean's List** - XYZ University (2021, 2022)
 - **Hackathon Winner** - ABC Hackathon (2023)
 
-### 💻 Projects
-- **Personal Portfolio Website**: A responsive personal website built with HTML, CSS, and JavaScript.
-- **Task Manager App**: A task management application developed using React and Node.js.
 
 ## Assignments
 
@@ -102,7 +93,7 @@
 ### 🗃 Assignment 3: GitHub E-portfolio
 - This repository contains the e-portfolio you are currently viewing.
 
-## Project
+## 💻 Project
 - [Project Repository](https://github.com/myusername/myproject)
 
 ## Reflections
