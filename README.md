@@ -1,3 +1,10 @@
+# My E-Portfolio
+
+
+**Headline:** Aspiring Software Developer with a Passion for Problem-Solving
+
+**Summary:** Welcome to my e-portfolio! I am a dedicated software developer with a background in computer science. This portfolio showcases my education, skills, projects, and reflections on my learning journey.
+
 <table>
   <tr>
     <td>
@@ -48,12 +55,7 @@
 ![Danial Erfan Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=derfcode91&show_icons=true&theme=radical)
 
 
-# My E-Portfolio
-![Developer Icon](https://img.icons8.com/clouds/100/000000/source-code.png)
 
-**Headline:** Aspiring Software Developer with a Passion for Problem-Solving
-
-**Summary:** Welcome to my e-portfolio! I am a dedicated software developer with a background in computer science. This portfolio showcases my education, skills, projects, and reflections on my learning journey.
 
 ## Core
 
