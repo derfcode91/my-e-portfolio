@@ -95,7 +95,7 @@
 ### 🗃 Assignment 3: GitHub E-portfolio
 - This repository contains the e-portfolio you are currently viewing.
 
-## 💻 Project
+### 💻 Project
 - [Project Repository](https://github.com/myusername/myproject)
 
 ## Reflections
