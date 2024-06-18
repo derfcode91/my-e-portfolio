@@ -16,14 +16,14 @@
           <img src="https://img.shields.io/badge/Institution-0078D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Institution"/>
         </a>
       </p>
-      <p>I'm a passionate Computer Science Lecturer with expertise in programming, data structures, and algorithms. I enjoy teaching and mentoring students to excel in programming and problem-solving.</p>
+      <p>I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), where I'm diving into the world of Network Security,
+/p>
     </td>
   </tr>
 </table>
 
 # Hello, I'm Danial Erfan Shah 👋
 
-I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), where I'm diving into the world of Network Security,
 
 ## Skills 🛠️
 
