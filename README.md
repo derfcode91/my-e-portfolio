@@ -74,14 +74,13 @@
 ## Wall of Award
 
 ### 📜 Certificates
-- **Certified Java Programmer** - Oracle
-- **AWS Certified Solutions Architect** - Amazon Web Services
+- **Certified Network Phase 1** - Cisco
 
-### 🏆 Honors and Awards
+
 ### 🏆 Honors and Awards
 - **Dean's List** - University Technology Malaysia (2022, 2023)
 - **MAKA Award** - University Technology MARA (2021)
-- - **Anugerah Kokurikulum & Sukan Half Colour** - Sport (2020)
+- **Anugerah Kokurikulum & Sukan Half Colour** - Sport (2020)
 - **Anugerah Kokurikulum & Sukan Atlet Cemerlang (Negeri)** - Sport (2020)
 - **Anugerah Kokurikulum & Sukan Tokoh Kecemerlangan** - Sport (2019)
 - **Anugerah Khas Kokurikulum Terbaik PAJSK** - Sport (2019)
