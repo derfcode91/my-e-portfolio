@@ -62,10 +62,12 @@
 ## Core
 
 ### 🎓 Education
-- **Bachelor of Science in Computer Science** - XYZ University (2020-2024)
+- **Mechanical Engineering** - Secondary Scholl (2019-2020)
+- **Foundation in Engineering** - University Technology Mara (2021)
+- **Bachelor of Computer Network Security** - University Tecnology Malaysia (2022-Now)
 
 ### 💼 Position
-- **Intern Software Developer** - ABC Company (June 2023 - August 2023)
+- -
 
 
 
