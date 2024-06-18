@@ -1,18 +1,18 @@
 <table>
   <tr>
     <td>
-      <img src="/gambar/image.jpg" alt="Profile Picture" width="200" />
+      <img src="/gambar/image.jpg" alt="Profile Picture" width="500" />
     </td>
     <td>
-      <h1>Hello, I'm Lizawati 👋</h1>
+      <h1>Hello, I'm Danial Erfan Shah 👋</h1>
       <p>
-        <a href="https://www.instagram.com/yourusername">
+        <a href="https://www.instagram.com/derfquek">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
         </a>
-        <a href="https://www.linkedin.com/in/yourusername">
+        <a href="https://www.linkedin.com/in/derf">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://www.yourinstitution.edu">
+        <a href="https://www.utm.my">
           <img src="https://img.shields.io/badge/Institution-0078D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Institution"/>
         </a>
       </p>
