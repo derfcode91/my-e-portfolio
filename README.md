@@ -1,5 +1,25 @@
-<img src="/gambar/image.jpg" alt="Profile Picture" width="200" height="200"/>
-
+<table>
+  <tr>
+    <td>
+      <img src="/gambar/image.jpg" alt="Profile Picture" width="200" />
+    </td>
+    <td>
+      <h1>Hello, I'm Lizawati 👋</h1>
+      <p>
+        <a href="https://www.instagram.com/yourusername">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+        <a href="https://www.linkedin.com/in/yourusername">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://www.yourinstitution.edu">
+          <img src="https://img.shields.io/badge/Institution-0078D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Institution"/>
+        </a>
+      </p>
+      <p>I'm a passionate Computer Science Lecturer with expertise in programming, data structures, and algorithms. I enjoy teaching and mentoring students to excel in programming and problem-solving.</p>
+    </td>
+  </tr>
+</table>
 
 # Hello, I'm Danial Erfan Shah 👋
 
