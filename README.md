@@ -3,9 +3,6 @@
 **Headline:** Aspiring Software Developer with a Passion for Problem-Solving
 
 **Summary:** Welcome to my e-portfolio! I am a dedicated software developer with a background in computer science. This portfolio showcases my education, skills, projects, and reflections on my learning journey.
-> Looking For Translation to different languages & Locale  [#23](https://github.com/anmol098/waka-readme-stats/issues/23)
-
-
 
 ## Core
 
