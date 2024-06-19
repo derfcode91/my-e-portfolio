@@ -101,7 +101,8 @@
 - This repository contains the e-portfolio you are currently viewing.
 
 ### 💻 Project
-- [Project Repository](https://joboncampus.com/)
+- [Project Repository](https://github.com/ilikeronnnnii/JobOnCampus)
+- [Project Website](https://joboncampus.com/)
 
 ## Reflections
 
